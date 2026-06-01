@@ -68,3 +68,8 @@ Customers → Orders → Sales ← Products
 1. Open **SQL Server Management Studio (SSMS)**
 2. Import `Sample_-_Superstore.csv` as `SuperstoreRaw`
 3. Run `Assignment.sql` top to bottom
+
+
+## 👤 Author
+**Rehan Ali** — Data Analyst
+[GitHub](https://github.com/rehanalicreates)
